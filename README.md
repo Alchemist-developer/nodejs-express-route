@@ -1,14 +1,15 @@
 ### Site de notícias | rotas | express ~
 
-#### Para trabalhar com os arquivos:
 -----------------------
+#### Para trabalhar com os arquivos:
+
 
 ```shell
 git clone https://github.com/Alchemist-developer/nodejs-express-route
 ```
-
-#### Para iniciar o projeto:
 -----------------------
+#### Para iniciar o projeto:
+
 
 ```shell
 npm install
